@@ -1,0 +1,59 @@
+#emaild,
+      #pwd,
+      #submitd {
+        margin: 30px;
+        
+      }
+
+.login-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+body{
+    background-color: thistle;
+}
+
+#submitd {
+    margin-left: 120px;
+    padding: 5px;
+    width: 90px;
+  }
+
+#pwd{
+    margin-left: 50px;
+}
+
+#header{
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
+
+.signup-form {
+  max-width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.signup-form h2 {
+  text-align: center;
+}
+#signupForm{
+  padding: 40px;
+}
+
+#name ,#contact, #email, #password, #sub , #emaill , #passwordl, #subl{
+  padding: 5px;
+  margin: 10px;
+}
+
+#ss{
+  width: 400px;
+  height: 600px;
+}
