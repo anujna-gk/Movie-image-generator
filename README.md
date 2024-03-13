@@ -1,4 +1,4 @@
-# Movie Images GEnerator !
+# Movie Images Generator !
 
 Problem Statememt 4 -
 
